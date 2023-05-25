@@ -1,0 +1,314 @@
+[01-Jan-2023 02:45:49 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:45:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:45:52 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:45:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:47:25 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:47:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:05 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 02:48:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:09:29 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:09:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:18:05 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:18:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:00 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:05 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:07 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:07 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:07 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:08 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:22:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:22 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:37 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:37 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:37 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:38 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:33:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:37:21 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:37:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:37:22 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:37:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:37:22 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:37:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:37:23 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:37:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:16 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:17 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:24 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:25 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:25 UTC] PHP Warning:  require_once(CRUD\config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:38:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'CRUD\config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:40:01 UTC] PHP Warning:  require_once(/home/tugasuas/public_html/CRU/config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:40:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tugasuas/public_html/CRU/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:40:01 UTC] PHP Warning:  require_once(/home/tugasuas/public_html/CRU/config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:40:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tugasuas/public_html/CRU/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:40:02 UTC] PHP Warning:  require_once(/home/tugasuas/public_html/CRU/config.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:40:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tugasuas/public_html/CRU/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tugasuas/public_html/login.php on line 12
+[01-Jan-2023 03:41:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 03:41:09 UTC] PHP Warning:  include(content\CSalesReport.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/SalesReport.php on line 100
+[01-Jan-2023 03:41:09 UTC] PHP Warning:  include(content\CSalesReport.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/SalesReport.php on line 100
+[01-Jan-2023 03:41:09 UTC] PHP Warning:  include(): Failed opening 'content\CSalesReport.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/SalesReport.php on line 100
+[01-Jan-2023 03:41:13 UTC] PHP Warning:  include(content\CSalesReport.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/SalesReport.php on line 100
+[01-Jan-2023 03:41:13 UTC] PHP Warning:  include(content\CSalesReport.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/SalesReport.php on line 100
+[01-Jan-2023 03:41:13 UTC] PHP Warning:  include(): Failed opening 'content\CSalesReport.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/SalesReport.php on line 100
+[01-Jan-2023 03:41:15 UTC] PHP Warning:  include(content\MaterialReportContent.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/MaterialReport.php on line 102
+[01-Jan-2023 03:41:15 UTC] PHP Warning:  include(content\MaterialReportContent.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/MaterialReport.php on line 102
+[01-Jan-2023 03:41:15 UTC] PHP Warning:  include(): Failed opening 'content\MaterialReportContent.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/MaterialReport.php on line 102
+[01-Jan-2023 03:41:17 UTC] PHP Warning:  include(content\CSalesReport.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/SalesReport.php on line 100
+[01-Jan-2023 03:41:17 UTC] PHP Warning:  include(content\CSalesReport.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/SalesReport.php on line 100
+[01-Jan-2023 03:41:17 UTC] PHP Warning:  include(): Failed opening 'content\CSalesReport.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/SalesReport.php on line 100
+[01-Jan-2023 03:55:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tugasuas/public_html/content/CSalesReport.php:50
+Stack trace:
+#0 /home/tugasuas/public_html/content/CSalesReport.php(50): mysqli->__construct()
+#1 /home/tugasuas/public_html/SalesReport.php(100): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/CSalesReport.php on line 50
+[01-Jan-2023 03:55:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tugasuas/public_html/content/CSalesReport.php:50
+Stack trace:
+#0 /home/tugasuas/public_html/content/CSalesReport.php(50): mysqli->__construct()
+#1 /home/tugasuas/public_html/SalesReport.php(100): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/CSalesReport.php on line 50
+[01-Jan-2023 03:55:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tugasuas/public_html/content/CSalesReport.php:50
+Stack trace:
+#0 /home/tugasuas/public_html/content/CSalesReport.php(50): mysqli->__construct()
+#1 /home/tugasuas/public_html/SalesReport.php(100): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/CSalesReport.php on line 50
+[01-Jan-2023 03:55:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tugasuas/public_html/content/CSalesReport.php:50
+Stack trace:
+#0 /home/tugasuas/public_html/content/CSalesReport.php(50): mysqli->__construct()
+#1 /home/tugasuas/public_html/SalesReport.php(100): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/CSalesReport.php on line 50
+[01-Jan-2023 03:57:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE tugasuas_lepros.pYearSalesStock; expected 1, got 0 in /home/tugasuas/public_html/content/CSalesReport.php:68
+Stack trace:
+#0 /home/tugasuas/public_html/content/CSalesReport.php(68): mysqli->query()
+#1 /home/tugasuas/public_html/SalesReport.php(100): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/CSalesReport.php on line 68
+[01-Jan-2023 03:57:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tugasuas/public_html/content/MaterialReportContent.php:17
+Stack trace:
+#0 /home/tugasuas/public_html/content/MaterialReportContent.php(17): mysqli->__construct()
+#1 /home/tugasuas/public_html/MaterialReport.php(102): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/MaterialReportContent.php on line 17
+[01-Jan-2023 03:58:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tugasuas/public_html/content/productContent.php:17
+Stack trace:
+#0 /home/tugasuas/public_html/content/productContent.php(17): mysqli->__construct()
+#1 /home/tugasuas/public_html/ProductStock.php(102): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/productContent.php on line 17
+[01-Jan-2023 04:03:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 04:08:22 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:08:22 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:08:22 UTC] PHP Warning:  include(): Failed opening 'content/Notifmat.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:10:28 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:10:28 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:10:28 UTC] PHP Warning:  include(): Failed opening 'content/Notifmat.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:10:32 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[01-Jan-2023 04:10:52 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[01-Jan-2023 04:10:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 04:12:21 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:12:21 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:12:21 UTC] PHP Warning:  include(): Failed opening 'content/Notifmat.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:15:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 04:20:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 04:20:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 04:25:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 04:26:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 04:26:25 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:26:25 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:26:25 UTC] PHP Warning:  include(): Failed opening 'content/Notifmat.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:26:54 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:26:54 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:26:54 UTC] PHP Warning:  include(): Failed opening 'content/Notifmat.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 04:32:41 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[01-Jan-2023 11:47:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 11:47:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 in /home/tugasuas/public_html/content/CSalesReport.php:79
+Stack trace:
+#0 /home/tugasuas/public_html/content/CSalesReport.php(79): mysqli->query()
+#1 /home/tugasuas/public_html/SalesReport.php(100): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/CSalesReport.php on line 79
+[01-Jan-2023 14:47:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 14:47:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 15:06:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 15:14:09 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 15:14:09 UTC] PHP Warning:  include(content/Notifmat.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 15:14:09 UTC] PHP Warning:  include(): Failed opening 'content/Notifmat.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/Notification.php on line 100
+[01-Jan-2023 15:15:37 UTC] PHP Warning:  include(content/notifProd.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification2.php on line 100
+[01-Jan-2023 15:15:37 UTC] PHP Warning:  include(content/notifProd.php): Failed to open stream: No such file or directory in /home/tugasuas/public_html/Notification2.php on line 100
+[01-Jan-2023 15:15:37 UTC] PHP Warning:  include(): Failed opening 'content/notifProd.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tugasuas/public_html/Notification2.php on line 100
+[01-Jan-2023 18:57:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 19:04:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE tugasuas_lepros.pYearSalesStock; expected 1, got 0 in /home/tugasuas/public_html/content/CSalesReport.php:68
+Stack trace:
+#0 /home/tugasuas/public_html/content/CSalesReport.php(68): mysqli->query()
+#1 /home/tugasuas/public_html/SalesReport.php(100): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/CSalesReport.php on line 68
+[01-Jan-2023 19:05:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect number of arguments for PROCEDURE tugasuas_lepros.pYearSalesStock; expected 1, got 0 in /home/tugasuas/public_html/content/CSalesReport.php:68
+Stack trace:
+#0 /home/tugasuas/public_html/content/CSalesReport.php(68): mysqli->query()
+#1 /home/tugasuas/public_html/SalesReport.php(100): include('/home/tugasuas/...')
+#2 {main}
+  thrown in /home/tugasuas/public_html/content/CSalesReport.php on line 68
+[01-Jan-2023 19:36:08 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[01-Jan-2023 19:39:30 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[01-Jan-2023 19:47:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[01-Jan-2023 20:27:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'status_del' in where clause is ambiguous in /home/tugasuas/public_html/CRUD/crudMaterial.php:27
+Stack trace:
+#0 /home/tugasuas/public_html/CRUD/crudMaterial.php(27): mysqli->query()
+#1 /home/tugasuas/public_html/content/MDcontent.php(92): include('/home/tugasuas/...')
+#2 /home/tugasuas/public_html/MaintenanceData.php(102): include('/home/tugasuas/...')
+#3 {main}
+  thrown in /home/tugasuas/public_html/CRUD/crudMaterial.php on line 27
+[02-Jan-2023 05:16:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[02-Jan-2023 05:42:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[02-Jan-2023 06:26:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[02-Jan-2023 06:51:35 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[02-Jan-2023 06:51:57 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[02-Jan-2023 06:52:47 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[02-Jan-2023 07:00:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[02-Jan-2023 07:25:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[03-Jan-2023 19:08:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[04-Jan-2023 16:08:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[04-Jan-2023 16:08:56 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[04-Jan-2023 16:09:08 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[04-Jan-2023 16:17:32 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[04-Jan-2023 16:19:43 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[04-Jan-2023 23:16:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[04-Jan-2023 23:19:12 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[04-Jan-2023 23:19:20 UTC] PHP Warning:  Undefined variable $hasilid in /home/tugasuas/public_html/content/NOrder.php on line 182
+[05-Jan-2023 14:37:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[05-Jan-2023 20:00:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
+[19-Jan-2023 07:54:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tugasuas/public_html/login.php on line 59
